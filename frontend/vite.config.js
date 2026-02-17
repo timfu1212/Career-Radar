@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "Career-Radar",
+  base: "https://timfu1212.github.io/Career-Radar/",
 });
